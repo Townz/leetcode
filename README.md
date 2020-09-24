@@ -1,3 +1,3 @@
 # leetcode
 
-Used to document my adventures of solving leet code problems
+Used to document my adventures solving leet code problems
