@@ -1,6 +1,6 @@
 package easy
 
-class TwoSum {
+class TwoSumKt {
     fun twoSum(nums: IntArray, target: Int): IntArray? {
         var returnArray: IntArray? = null
         for (i in nums.indices) {
